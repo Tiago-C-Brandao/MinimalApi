@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json;
 using Test.Helpers;
 
-namespace Test;
+namespace Test.Requests;
 
 [TestClass]
 public class VehicleRequestTest
