@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -9,6 +9,10 @@
 
   <PropertyGroup>
     <BaseOutputPath>C:\BuildOutput\</BaseOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <RunSettingsFilePath>C:\Users\tiago\OneDrive\Documentos\Bootcamp\Avanade -  Back-end com .NET e IA\Desenvolvemento de APIs\minimal-api\Test\.runsettings</RunSettingsFilePath>
   </PropertyGroup>
   
   <ItemGroup>
